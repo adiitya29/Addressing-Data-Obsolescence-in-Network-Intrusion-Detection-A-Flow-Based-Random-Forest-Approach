@@ -47,6 +47,9 @@ pip install -r requirements.txt
 
 ## 🚀 How to Run the Project
 
+> **⚠️ Note on Cloud Deployment**
+> This project is designed to be run **locally** rather than hosted on a public cloud platform. While static monitoring (uploading a dataset) works perfectly on hosted projects, **dynamic live monitoring is blocked by cloud services**. Cloud providers strictly prohibit the packet sniffing required by our Scapy code. Because we send simulated live attacks over the local network (due to the lack of open-source IP addresses for safe live testing), the full features of this project are best experienced on a local machine.
+
 You can run the project in two ways: **Real-Time Capture** or **Simulated Demo**.
 
 ### Option A: The Full Practical Demo (Recommended for Presentations)
