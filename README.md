@@ -105,3 +105,69 @@ python src/models/train.py
 - `src/models/train.py` — Trains the Machine Learning models.
 - `src/models/output/` — Where the trained `.joblib` models and performance `.json` data are stored.
 - `logs/live_traffic.csv` — The live log file where incoming traffic is recorded and read by the dashboard.
+
+
+## 🖥️ PROJECT OUTPUTS
+
+
+## Static Monitoring
+
+<img width="2560" height="1430" alt="image" src="https://github.com/user-attachments/assets/c318a3c4-8fa5-4b8c-a75b-da7e6f2a65d6" />
+
+<img width="2560" height="1426" alt="image" src="https://github.com/user-attachments/assets/1bd46b42-4103-4eb6-a4be-974f83a3392d" />
+
+
+## Confusion Matrix and Performance Metrics
+
+<img width="2560" height="1437" alt="image" src="https://github.com/user-attachments/assets/1e861345-af91-4c91-959b-52b6395ffba5" />
+
+<img width="2560" height="1435" alt="image" src="https://github.com/user-attachments/assets/79c9e5f4-7068-4e55-89d7-3b76dc67f3e9" />
+
+<img width="2560" height="1407" alt="image" src="https://github.com/user-attachments/assets/60775135-29ca-45a7-a36d-553d19b3555b" />
+
+
+## Training Time and Accuracy
+
+<img width="1656" height="683" alt="image" src="https://github.com/user-attachments/assets/dcb7d2da-5dbd-431f-a3fd-a8cae4c99286" />
+
+<img width="1235" height="441" alt="image" src="https://github.com/user-attachments/assets/543aaf20-57ff-4cfa-8288-e3c6ba69ba2d" />
+
+
+## SHAP Summary Plot
+
+<img width="496" height="680" alt="image" src="https://github.com/user-attachments/assets/a685b9cf-7bba-421f-8d15-0517d8c568fc" />
+
+
+
+## Remaining Outputs
+
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/46529f6b-c1cd-4522-b71d-8af632abc27c" />
+
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/417f860d-8837-4659-a4a6-bd49f0573cf7" />
+
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/4df74f93-1d19-4960-82f5-b96097fb861b" />
+
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/28fa82f3-2a62-40b8-bee6-134847572654" />
+
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/be84dcf9-aa89-491b-b9db-01915e05569a" />
+
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/c9221b4b-b35d-4ed4-be03-779309df4703" />
+
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/d47b69c8-848f-4289-9a7e-c53792838b83" />
+
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/12e34b32-e2fe-488d-9bca-ee0689ad9559" />
+
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/597cf2b6-8aed-4f15-a7eb-28ce3359c24a" />
+
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/66c31473-3f34-4a30-b0dc-67f2f319a1b8" />
+
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/c6ea413a-6e40-47a8-bd93-cb26ed935541" />
+
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/eefbef25-2784-42cc-b212-ec1ef2be6863" />
+
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/a2b8ee6b-8572-406f-8e07-ce0d40f42e33" />
+
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/f1357c78-d138-4709-b735-a3d3cef18b7f" />
+
+
+
