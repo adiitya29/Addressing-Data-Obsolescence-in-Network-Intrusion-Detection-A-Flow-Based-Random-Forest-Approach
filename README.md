@@ -15,6 +15,31 @@ We built this project with **simplicity and clarity** in mind. Network security 
 
 ---
 
+## 💻 Tech Stack Used
+
+This project was built using modern, industry-standard tools and libraries:
+
+**Core Language & UI:**
+*   **Python 3.9+** – The primary programming language.
+*   **Streamlit** – Used to build the beautiful, interactive, real-time frontend dashboard.
+
+**Machine Learning & Data Processing:**
+*   **Scikit-Learn** – Used for training the Random Forest and Support Vector Machine (SVM) models.
+*   **XGBoost & LightGBM** – Used for advanced, high-performance gradient boosting models.
+*   **Pandas & NumPy** – Used for robust data manipulation, preprocessing, and feature engineering.
+*   **Joblib** – Used for saving and loading the trained machine learning models efficiently.
+*   **SHAP (SHapley Additive exPlanations)** – Used for model explainability to understand feature importance.
+
+**Networking & Packet Analysis:**
+*   **Scapy** – Used for real-time network packet sniffing, crafting, and sending simulated attacks.
+*   **Npcap** – Required for Windows environments to allow Scapy to capture raw network traffic.
+
+**Deployment & API (Optional):**
+*   **FastAPI & Uvicorn** – Used to create a fast backend REST API for model predictions.
+*   **Docker & Docker Compose** – Configured for easy containerization and local deployment.
+
+--
+
 ## 🛠️ Quick Installation Guide
 
 If you just cloned this repository, follow these simple steps to get the project running on your local machine.
