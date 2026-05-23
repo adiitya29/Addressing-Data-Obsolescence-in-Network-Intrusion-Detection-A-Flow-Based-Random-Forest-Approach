@@ -1,0 +1,15 @@
+# Web Dashboard
+streamlit>=1.20.0
+streamlit-option-menu>=0.3.2
+streamlit-autorefresh>=1.0.1
+plotly>=5.13.0
+
+# Data & Machine Learning
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.2.0
+xgboost>=1.7.0
+joblib>=1.2.0
+
+# Network Capture
+scapy>=2.5.0

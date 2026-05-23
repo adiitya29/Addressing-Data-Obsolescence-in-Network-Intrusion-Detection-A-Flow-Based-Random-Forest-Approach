@@ -1,0 +1,23 @@
+# Virtual Environment
+virtual/
+venv/
+env/
+.env
+
+# Datasets and Large Files (Not needed for deployment as the model is already trained)
+*.csv
+*.pcap
+data/
+combined_dataset.csv
+*.log
+
+# Python Cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Ignore old model files except the main one if you want, but they are 26MB so it's okay.
+# For now, we will allow .joblib files because they are needed for deployment.
