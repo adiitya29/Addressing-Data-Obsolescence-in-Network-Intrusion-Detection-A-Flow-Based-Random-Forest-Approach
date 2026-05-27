@@ -4,17 +4,6 @@ A beginner-friendly, real-time Intrusion Detection System powered by Machine Lea
 
 ---
 
-## 🌟 Why This Project is Great for Beginners
-
-We built this project with **simplicity and clarity** in mind. Network security and machine learning can be incredibly complex, so we intentionally designed this project to be easy to understand, easy to run, and easy to modify:
-
-- **Clear Architecture:** The code is cleanly separated into machine learning training (`src/models/train.py`), live packet capture (`live_ids.py`), and a frontend dashboard (`dashboard.py`).
-- **Interactive UI:** Instead of staring at terminal logs, our Streamlit dashboard provides beautiful, real-time graphs showing exactly what the ML models are detecting.
-- **Easy Simulation:** Don't want to wait for a real hacker? We've included a `simulate_attacks.py` script that safely generates fake attack traffic so you can see the system working instantly.
-- **Standard Libraries:** We rely on industry-standard, well-documented Python libraries (Scikit-Learn, Pandas, Scapy, Streamlit).
-
----
-
 ## 💻 Tech Stack Used
 
 This project was built using modern, industry-standard tools and libraries:
